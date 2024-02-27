@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../PROJECTE2"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "plantilla"
+	}
+}
